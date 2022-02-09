@@ -12,6 +12,7 @@ class: invert
 
 ### **Missionaries and Cannibals** Puzzle
 > Three Missionaries and Three Cannibals need to cross the river...
+
 https://hgup.github.io/slides/09-02-2022-Missionary-and-Cannibal-Puzzle.html
 ---
 
