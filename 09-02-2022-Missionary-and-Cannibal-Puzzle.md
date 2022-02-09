@@ -3,7 +3,7 @@ title: Missionaries and Cannibals Puzzle
 description: A proposed solution for
 author: Yuki Hattori
 keywords: marp,marp-cli,slide
-url: https://marp.app/
+
 image: https://marp.app/og-image.jpg
 
 theme: uncover
@@ -12,7 +12,7 @@ class: invert
 
 ### **Missionaries and Cannibals** Puzzle
 > Three Missionaries and Three Cannibals need to cross the river...
-
+https://hgup.github.io/slides/09-02-2022-Missionary-and-Cannibal-Puzzle.html
 ---
 
 # **Constraints**
