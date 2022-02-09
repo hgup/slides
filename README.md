@@ -1,0 +1,3 @@
+#### Missionary and Cannibal Puzzle
+https://hgup.github.io/slides/09-02-2022-Missionary-and-Cannibal-Puzzle.html
+> Three Missionaries and three cannibals want to cross a river...
